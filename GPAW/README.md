@@ -1,5 +1,10 @@
 # GPAW 
 
+## Run from DockerHub
+```bash
+docker run -it sudorsingh/gpaw
+```
+
 ## Build Instructions
 
 ```bash
